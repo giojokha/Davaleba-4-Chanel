@@ -1,0 +1,125 @@
+* {
+
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background: color #a6b9f3;
+}
+h1 {
+    font-weight:900;
+    font-size:28px;
+    line-height:37px;
+    color: #1f2e55;
+    text-align:center;
+    margin-top:45px;
+}
+.firstdiv {
+width:450px;
+margin:auto;
+margin-top:58px;
+background-color:white;
+border-radius:20px;
+box-shadow: 0px 40px 40px -20px rgba(13,48,189,0.151826);
+
+}
+.seconddiv {
+    padding-left:48px;
+    padding-right:48px;
+    padding-bottom:48px;
+}
+
+.description {
+
+    font-weight:500;
+    font-size: 16px;
+    line-height:26px;
+    text-align:center;
+    color: #717fa6;
+    margin-top:17px;
+
+}
+
+.musicimg {
+    border-top-left-radius:20px;
+    border-top-right-radius:20px;
+
+}
+.thirddiv {
+    display:flex;
+    Justify-content:space-between;
+    align-items:center;
+    padding-top:25px;
+    padding-bottom:25px;
+    padding-left:24px;
+    padding-right:24px;
+    margin-top:20px;
+
+}
+.fourthdiv {
+    display:flex;
+    align-items:center;
+}
+.Keyimg {
+    margin-right:20px;
+}
+.Description2 {
+    font-weight:900;
+    font-size:16px;
+    line-height:21px;
+    color: #1f2e55;
+}
+.Pay {
+   font-weight:500;
+   font-size:16px;
+   line-height:21px;
+   color:#717fa6;
+   margin-top:6px;
+}
+.Credit {
+  font-weight:700;
+  font-size: 15px;
+  line-height:18px;
+  color:#382AE1;
+  text-decoration:underline;
+  cursor:pointer;
+}
+.Credit:hover{
+    color:#766cf1;
+}
+.Button {
+  width:100%;
+  padding-top:15px;
+  padding-bottom:15px;
+  background-color:blue;
+  justify-content:center;
+  align-items:center;
+  border-radius:11px;
+  margin-top:32px;
+  cursor:pointer;
+  box-shadow: 0px 20px 20px rgba(56,42,225,0.190291);
+  
+}
+.Button:hover {
+    background-color:#766cf1;
+}
+.PayButton {
+    font-weight:900;
+    font-size:15px;
+    line-height:26px;
+    color:white;
+    text-align:center;
+}
+.CancelPayment {
+    font-weight:900;
+    font-size:15px;
+    line-height:20px;
+    color: #717fa6;
+    text-align: center;
+    margin-top:32px;
+    cursor:pointer;
+}
+.CancelPayment:hover {
+    color:#1f2e55;
+}
